@@ -1,0 +1,3 @@
+int32 room_num
+---
+int32[] adjacent_rooms
